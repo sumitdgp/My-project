@@ -1,0 +1,26 @@
+course_id,title,description,category,platform,difficulty,rating,duration,skills,enroll_link,price
+1,Python for Beginners,Learn Python programming from scratch with hands-on projects,Programming,Udemy,Beginner,4.5,10,Python Programming Basic Syntax,"https://www.udemy.com/python-beginners",₹499
+2,Machine Learning Fundamentals,Introduction to ML algorithms and practical implementation,Data Science,Coursera,Intermediate,4.7,15,Machine Learning Python Statistics,"https://www.coursera.org/ml-fundamentals",Free
+3,Web Development Bootcamp,Full-stack web development with modern technologies,Web Development,Udemy,Intermediate,4.6,20,HTML CSS JavaScript React,"https://www.udemy.com/web-dev-bootcamp",₹1299
+4,Data Analysis with Python,Data analysis using pandas and numpy for real-world datasets,Data Science,edX,Intermediate,4.4,12,Python Pandas NumPy Data Analysis,"https://www.edx.org/data-analysis-python",₹899
+5,Advanced JavaScript,Deep dive into advanced JavaScript concepts and patterns,Programming,Udemy,Advanced,4.8,8,JavaScript ES6 Async Programming,"https://www.udemy.com/advanced-js",₹799
+6,React Native Mobile Development,Build cross-platform mobile apps with React Native,Mobile Development,Coursera,Intermediate,4.5,14,React Native JavaScript Mobile Development,"https://www.coursera.org/react-native",Free
+7,Cloud Computing Basics,Introduction to cloud platforms and services,Cloud Computing,Udemy,Beginner,4.2,6,AWS Cloud Computing,"https://www.udemy.com/cloud-basics",₹399
+8,DevOps Essentials,CI/CD pipelines and deployment strategies,DevOps,edX,Intermediate,4.6,10,Docker Kubernetes CI/CD,"https://www.edx.org/devops-essentials",₹1199
+9,UI/UX Design Principles,User interface and experience design fundamentals,Design,Coursera,Beginner,4.3,8,UI Design UX Research Wireframing,"https://www.coursera.org/ui-ux-design",Free
+10,Database Management,SQL and database design concepts,Databases,Udemy,Intermediate,4.4,12,SQL Database Design MySQL,"https://www.udemy.com/database-management",₹599
+11,AI and Machine Learning,Comprehensive AI and ML course with projects,Artificial Intelligence,edX,Advanced,4.8,18,Python Machine Learning Deep Learning Neural Networks,"https://www.edx.org/ai-ml",₹1599
+12,Cybersecurity Fundamentals,Introduction to cybersecurity concepts and practices,Cybersecurity,Coursera,Beginner,4.2,9,Network Security Encryption Cybersecurity,"https://www.coursera.org/cybersecurity",Free
+13,Digital Marketing Strategy,Modern digital marketing techniques and analytics,Marketing,Udemy,Intermediate,4.5,7,SEO Social Media Marketing Analytics,"https://www.udemy.com/digital-marketing",₹699
+14,Blockchain Development,Build blockchain applications and smart contracts,Blockchain,edX,Advanced,4.7,16,Solidity Smart Contracts Blockchain,"https://www.edx.org/blockchain-dev",₹1799
+15,iOS App Development,iOS app development with Swift and Xcode,Mobile Development,Udemy,Intermediate,4.6,13,Swift iOS Development Xcode,"https://www.udemy.com/ios-development",₹1499
+16,Data Visualization,Create compelling data visualizations and dashboards,Data Science,Coursera,Intermediate,4.4,11,Tableau Data Visualization Python,"https://www.coursera.org/data-viz",Free
+17,Project Management,Agile and traditional project management methodologies,Business,edX,Beginner,4.3,10,Agile Scrum Project Management,"https://www.edx.org/project-management",₹999
+18,Deep Learning Specialization,Advanced neural networks and deep learning,Artificial Intelligence,Coursera,Advanced,4.9,20,Python TensorFlow Neural Networks,"https://www.coursera.org/deep-learning",Free
+19,Android Development,Android app development with Java/Kotlin,Mobile Development,Udemy,Intermediate,4.5,15,Java Android Studio Mobile Development,"https://www.udemy.com/android-dev",₹1399
+20,Business Analytics,Data-driven business decisions and analysis,Business,Coursera,Intermediate,4.4,14,Excel SQL Business Intelligence,"https://www.coursera.org/business-analytics",Free
+21,Data Structures & Algorithms,Master data structures and algorithms for interviews,Programming,Udemy,Intermediate,4.7,16,Python Algorithms Data Structures,"https://www.udemy.com/dsa-course",₹899
+22,Full Stack Development,Complete full stack development course,Web Development,Coursera,Intermediate,4.6,22,React Node.js MongoDB Express,"https://www.coursera.org/full-stack",Free
+23,Cloud Architecture,AWS and cloud architecture patterns,Cloud Computing,edX,Advanced,4.5,14,AWS Cloud Architecture DevOps,"https://www.edx.org/cloud-arch",₹1899
+24,Game Development,Unity game development for beginners,Game Development,Udemy,Beginner,4.3,9,Unity C# Game Development,"https://www.udemy.com/game-dev",₹799
+25,Data Science Bootcamp,Comprehensive data science course,Data Science,Udemy,Intermediate,4.6,18,Python Statistics Machine Learning,"https://www.udemy.com/data-science-bootcamp",₹1699
